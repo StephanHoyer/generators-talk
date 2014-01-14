@@ -1,7 +1,8 @@
 This is a talk I held on the leipzig.js. It's a brief introduction on
 generators and how they make writing asyncron code fun again.
 
-== How
+How
+---
 
 The intro consists of 10 steps which I demonstrated in order.
 
