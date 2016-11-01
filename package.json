@@ -10,9 +10,9 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "suspend": "~0.4.0",
-    "co": "~3.0.2",
-    "superagent": "~0.16.0",
-    "thunkify": "0.0.1"
+    "suspend": "~0.7.0",
+    "co": "~4.6.0",
+    "superagent": "~2.3.0",
+    "thunkify": "2.1.2"
   }
 }
